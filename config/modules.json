@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ai-calibration-metrology-compliance",
+    "name": "Calibration metrology compliance",
+    "sourceProject": "ai-calibration-metrology-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-chemical-feedstock-formula-price-audit",
+    "name": "Chemical feedstock formula price audit",
+    "sourceProject": "ai-chemical-feedstock-formula-price-audit",
+    "services": []
+  },
+  {
+    "id": "ai-chemical-process-safety-moc-hazop",
+    "name": "Chemical process safety moc hazop",
+    "sourceProject": "ai-chemical-process-safety-moc-hazop",
+    "services": []
+  },
+  {
+    "id": "ai-contract-manufacturing-yield-scrap-recovery",
+    "name": "Contract manufacturing yield scrap recovery",
+    "sourceProject": "ai-contract-manufacturing-yield-scrap-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-manufacturing-warranty-supplier-recovery",
+    "name": "Manufacturing warranty supplier recovery",
+    "sourceProject": "ai-manufacturing-warranty-supplier-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-mro-consignment-vmi-invoice-audit",
+    "name": "Mro consignment vmi invoice audit",
+    "sourceProject": "ai-mro-consignment-vmi-invoice-audit",
+    "services": []
+  },
+  {
+    "id": "ai-supplier-quality-capa-8d",
+    "name": "Supplier quality capa 8d",
+    "sourceProject": "ai-supplier-quality-capa-8d",
+    "services": []
+  },
+  {
+    "id": "ai-tooling-mold-amortization-ownership-recovery",
+    "name": "Tooling mold amortization ownership recovery",
+    "sourceProject": "ai-tooling-mold-amortization-ownership-recovery",
+    "services": []
+  },
+  {
+    "id": "AI3DPrintingOptimizer",
+    "name": "3 dprinting optimizer",
+    "sourceProject": "AI3DPrintingOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIAssemblyLineVisualInspector",
+    "name": "Assembly line visual inspector",
+    "sourceProject": "AIAssemblyLineVisualInspector",
+    "services": []
+  },
+  {
+    "id": "AIBillofMaterialsOptimizer",
+    "name": "Billof materials optimizer",
+    "sourceProject": "AIBillofMaterialsOptimizer",
+    "services": []
+  },
+  {
+    "id": "AICobotTrainer",
+    "name": "Cobot trainer",
+    "sourceProject": "AICobotTrainer",
+    "services": []
+  },
+  {
+    "id": "AIDigitalTwinPlatform",
+    "name": "Digital twin platform",
+    "sourceProject": "AIDigitalTwinPlatform",
+    "services": []
+  },
+  {
+    "id": "AIHardwareIoT",
+    "name": "Hardware io t",
+    "sourceProject": "AIHardwareIoT",
+    "services": []
+  },
+  {
+    "id": "AIIndustrialIoTAnomalyDetector",
+    "name": "Industrial io tanomaly detector",
+    "sourceProject": "AIIndustrialIoTAnomalyDetector",
+    "services": []
+  },
+  {
+    "id": "AIManufacturingOps",
+    "name": "Manufacturing ops",
+    "sourceProject": "AIManufacturingOps",
+    "services": []
+  },
+  {
+    "id": "AIPrecisionFermentationProcessOptimizer",
+    "name": "Precision fermentation process optimizer",
+    "sourceProject": "AIPrecisionFermentationProcessOptimizer",
+    "services": []
+  },
+  {
+    "id": "AIPredictiveMaintenance",
+    "name": "Predictive maintenance",
+    "sourceProject": "AIPredictiveMaintenance",
+    "services": []
+  },
+  {
+    "id": "AIRoboticProcessChoreographer",
+    "name": "Robotic process choreographer",
+    "sourceProject": "AIRoboticProcessChoreographer",
+    "services": []
+  },
+  {
+    "id": "AIVisualQAInspector",
+    "name": "Visual qainspector",
+    "sourceProject": "AIVisualQAInspector",
+    "services": []
+  }
+]

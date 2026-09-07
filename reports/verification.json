@@ -1,0 +1,18 @@
+{
+  "id": "manufacturing-platform",
+  "status": "passed",
+  "features": 400,
+  "editableTables": 398,
+  "minimumRows": 15,
+  "repeatSeedCreated": 0,
+  "crud": true,
+  "persistence": true,
+  "relationships": true,
+  "revisions": true,
+  "attachments": true,
+  "exports": true,
+  "mockedAI": true,
+  "originProtection": true,
+  "sourceCalculationsExecuted": 0,
+  "verifiedAt": "2026-09-07T22:05:41.681Z"
+}

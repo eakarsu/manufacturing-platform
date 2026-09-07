@@ -1,0 +1,3972 @@
+{
+  "mapped": [
+    {
+      "project": "ai-calibration-metrology-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-calibration-metrology-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-calibration-metrology-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-calibration-metrology-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-calibration-metrology-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-calibration-metrology-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "supplier-contract-library",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "supplier-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "material-grade-registry",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "material-grade-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "index-source-control",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "index-source-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "publication-date-validation",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "publication-date-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "formula-price-calculation",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "formula-price-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "lag-period-validation",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "lag-period-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "floor-ceiling-control",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "floor-ceiling-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "freight-differential-audit",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "freight-differential-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "energy-surcharge-validation",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "energy-surcharge-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "currency-conversion",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "currency-conversion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "off-spec-quality-credits",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "off-spec-quality-credits",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "volume-rebate-calculation",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "volume-rebate-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "invoice-matching",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "invoice-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "supplier-exception-workflow",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "supplier-exception-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "material-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/app.config.mjs",
+      "canonical": "material-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-process-safety-moc-hazop",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-chemical-process-safety-moc-hazop/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-process-safety-moc-hazop",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-chemical-process-safety-moc-hazop/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-chemical-process-safety-moc-hazop",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-chemical-process-safety-moc-hazop/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "manufacturing-agreement-library",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "manufacturing-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "bom-and-routing-versioning",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "bom-and-routing-versioning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "material-receipt-ingestion",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "material-receipt-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "production-order-reconciliation",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "production-order-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "material-usage-variance",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "material-usage-variance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "yield-and-scrap-calculation",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "yield-and-scrap-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "scrap-ownership-and-resale-credit",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "scrap-ownership-and-resale-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "rework-responsibility-analysis",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "rework-responsibility-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "labor-and-conversion-cost-validation",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "labor-and-conversion-cost-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "overtime-and-premium-audit",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "overtime-and-premium-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "material-substitution-control",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "material-substitution-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "quality-rejection-chargeback",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "quality-rejection-chargeback",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "finished-goods-reconciliation",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "finished-goods-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "supplier-recovery-package",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "supplier-recovery-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "debit-and-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "debit-and-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "site-product-and-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/app.config.mjs",
+      "canonical": "site-product-and-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "genealogy",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "genealogy",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "entitlement",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "entitlement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "claim-intake",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "claim-intake",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "service-validation",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "service-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "failure-codes",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "failure-codes",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "component-evidence",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "component-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "failure-clustering",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "failure-clustering",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "supplier-responsibility",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "supplier-responsibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "cost-reconstruction",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "cost-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "supplier-claim",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "supplier-claim",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "supplier-response",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "supplier-response",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "debit-memo",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "debit-memo",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "recovery-ledger",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "recovery-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "reserve-forecast",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "reserve-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "supplier-scorecards",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "supplier-scorecards",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "field-action-warning",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/app.config.mjs",
+      "canonical": "field-action-warning",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "vmi-contract-library",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "vmi-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "storeroom-bin-registry",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "storeroom-bin-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "item-substitute-master",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "item-substitute-master",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "beginning-inventory-reconciliation",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "beginning-inventory-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "receipt-issue-ingestion",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "receipt-issue-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "cycle-count-variance",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "cycle-count-variance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "consumption-billing-calculation",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "consumption-billing-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "price-discount-validation",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "price-discount-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "obsolete-inventory-responsibility",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "obsolete-inventory-responsibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "emergency-premium-audit",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "emergency-premium-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "restocking-fee-control",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "restocking-fee-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "invoice-matching",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "invoice-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "supplier-discrepancy-workflow",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "supplier-discrepancy-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "plant-item-analytics",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/app.config.mjs",
+      "canonical": "plant-item-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-quality-capa-8d",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-supplier-quality-capa-8d/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-quality-capa-8d",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-supplier-quality-capa-8d/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-quality-capa-8d",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-supplier-quality-capa-8d/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "tooling-agreement-library",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "tooling-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "asset-serial-registry",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "asset-serial-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "ownership-title-evidence",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "ownership-title-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "purchase-order-reconciliation",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "purchase-order-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "amortization-schedule",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "amortization-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "piece-price-amortization",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "piece-price-amortization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "volume-threshold-monitoring",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "volume-threshold-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "duplicate-tooling-detection",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "duplicate-tooling-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "maintenance-responsibility",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "maintenance-responsibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "refurbishment-validation",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "refurbishment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "supplier-custody-tracking",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "supplier-custody-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "end-of-program-transfer",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "end-of-program-transfer",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "residual-balance-recovery",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "residual-balance-recovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "tool-return-workflow",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "tool-return-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "program-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/app.config.mjs",
+      "canonical": "program-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Powder Reuse Plan",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "powder-reuse-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Print Parameter Tuning",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "print-parameter-tuning",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Failure Prediction",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "failure-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Material Selection Advisor",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "material-selection-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Build Time Estimation",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "build-time-estimation",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Quality Scoring",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "quality-scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Print Jobs Management",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "print-jobs-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Material Inventory",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "material-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Printer Management",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "printer-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Print Profiles",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "print-profiles",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "Maintenance Logs",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer/frontend/src/config/features.js",
+      "canonical": "maintenance-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "sourceKey": "ai-printing-tools",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "canonical": "printing-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIAssemblyLineVisualInspector",
+      "sourceKey": "AIAssemblyLineVisualInspector",
+      "source": "/Volumes/external/projects/AIAssemblyLineVisualInspector",
+      "canonical": "aiassembly-line-visual-inspector",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/bom",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "bom",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/alternatives",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "alternatives",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/obsolescence",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "obsolescence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/leadtime",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "leadtime",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/costdown",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "costdown",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/bomversions",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "bomversions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/risks",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/audit",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/ai-insights",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "/webhooks",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "sourceKey": "supplier-pcn-impact-matrix",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer",
+      "canonical": "supplier-pcn-impact-matrix",
+      "kind": "route"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Robot Programs",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "robot-programs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Task Sequences",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "task-sequences",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Safety Boundaries",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "safety-boundaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Quality Checkpoints",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "quality-checkpoints",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Demonstration Recordings",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "demonstration-recordings",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Waypoints",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "waypoints",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Tool Configurations",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "tool-configurations",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Work Cells",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "work-cells",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Motion Planning",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "motion-planning",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Quality Analysis",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "quality-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Safety Assessment",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "safety-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Task Optimization",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "task-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Fixture Changeover Coach",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "fixture-changeover-coach",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Anomaly Detection",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Natural Language Programming",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "natural-language-programming",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "AI Predictive Maintenance",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/features.js",
+      "canonical": "predictive-maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Motion Path Replay",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "motion-path-replay",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Task Optimisation Batch",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "task-optimisation-batch",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Safety Boundary Auto-Generator",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "safety-boundary-auto-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Predictive Maintenance Scheduler",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "predictive-maintenance-scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Cross-Model Motion Planner",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "cross-model-motion-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Quality Checkpoint Auto-Designer",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "quality-checkpoint-auto-designer",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "NL Program Debugger",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "nl-program-debugger",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Agentic Program Generator",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "agentic-program-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Failure Root-Cause Analyzer",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "failure-root-cause-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Cycle-Time Estimator",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "cycle-time-estimator",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "Operator Training Brief",
+      "source": "/Volumes/external/projects/AICobotTrainer/frontend/src/pages/AIAdvancedPage.jsx",
+      "canonical": "operator-training-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AICobotTrainer",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/twins",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "twins",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/personalities",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "personalities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/conversations",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "conversations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/knowledge",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "knowledge",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/behaviors",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "behaviors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/sentiments",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "sentiments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/memories",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "memories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/response-generator",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "response-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/interactions",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "interactions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/comparison",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/summarizer",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "summarizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/cf/continuous-twin-learning",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "continuous-twin-learning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/cf/multi-twin-social-dynamics",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "multi-twin-social-dynamics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/cf/emotional-state-evolution",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "emotional-state-evolution",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/cf/long-term-relationship-modeling",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "long-term-relationship-modeling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/cf/counterfactual-analysis",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "counterfactual-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/missing-generate-conversation-learn-from-interaction-predict",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "missing-generate-conversation-learn-from-interaction-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/no-conversational-ai-backend-hookup",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "conversational-ai-backend-hookup",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/limited-llm-provider-integration-openai-anthropic-only-stubs",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "limited-llm-provider-integration-openai-anthropic-only-stubs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/no-real-time-interaction-interface",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "real-time-interaction-interface",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/no-multi-user-group-conversation-support",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "multi-user-group-conversation-support",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/no-payment-billing-module",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "payment-billing-module",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "/gap/no-reporting-beyond-stubs",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "canonical": "reporting-beyond-stubs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "sourceKey": "twin-drift-monitor",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "canonical": "twin-drift-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "devices",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "devices",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "telemetry",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "telemetry",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "ai-analytics",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "firmware",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "firmware",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "edge-inference",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "edge-inference",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "smart-agents",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "smart-agents",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "fleet-ops-ai",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "fleet-ops-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-agentic-device-health-monitor-predicting",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "agentic-device-health-monitor-predicting",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-federated-learning-for-edge-models-train",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "federated-learning-for-edge-models-train",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-smart-agent-orchestration-coordinating-c",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "smart-agent-orchestration-coordinating-c",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-device-marketplace-integration-auto-disc",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "device-marketplace-integration-auto-disc",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-energy-efficiency-optimizer-extending-ex",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "energy-efficiency-optimizer-extending-ex",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "cf-av-anomaly-detection-for-camera-and",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "av-anomaly-detection-for-camera-and",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-automated-rule-tuning-from-historical",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "automated-rule-tuning-from-historical",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-predictive-bandwidthcost-optimizer-fo",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "predictive-bandwidthcost-optimizer-fo",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-videoaudio-anomaly-detection-for-av",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "videoaudio-anomaly-detection-for-av",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-mqtt-broker-integration-only-http",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "mqtt-broker-integration-only-http",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-ota-firmware-delivery-pipeline-only",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "ota-firmware-delivery-pipeline-only",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-multi-tenant-fleet-partitioning",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "multi-tenant-fleet-partitioning",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-audit-log-0-references",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "audit-log-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-notification-engine-0-references",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "notification-engine-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "gap-no-webhook-dispatch-for-alerts-to",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "webhook-dispatch-for-alerts-to",
+      "kind": "route"
+    },
+    {
+      "project": "AIHardwareIoT",
+      "sourceKey": "firmware-rollback-window",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "canonical": "firmware-rollback-window",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/sensors",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "sensors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/anomalies",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/predictive",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "predictive",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/rootcause",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "rootcause",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "/energy",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "canonical": "energy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "sensor-calibration-drift",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "sensor-calibration-drift",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-agentic-maintenance-coordinator-predicti",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "agentic-maintenance-coordinator-predicti",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-federated-anomaly-detection-trained-on-a",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "federated-anomaly-detection-trained-on-a",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-vibration-acoustic-monitoring-for-early-",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "vibration-acoustic-monitoring-for-early",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-supply-chain-disruption-prediction-corre",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "supply-chain-disruption-prediction-corre",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-energy-efficiency-optimizer-recommending",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "energy-efficiency-optimizer-recommending",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "cf-cross-equipment-correlation-extending-co",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "cross-equipment-correlation-extending-co",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-detect-anomaly-endpoint-with-ml",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "detect-anomaly-endpoint-with-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-predict-failure-endpoint",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "predict-failure-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-root-cause-ai-synthesis",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "root-cause-ai-synthesis",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-energy-optimization-ai",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "energy-optimization-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-equipment-health-score-ai",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "equipment-health-score-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-maintenance-recommendation-ai",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "maintenance-recommendation-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-mqtt-broker-only-http-ingestion",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "mqtt-broker-only-http-ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-real-plcscada-integration-only-integr",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "real-plcscada-integration-only-integr",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-technician-dispatch-mobile-workflow",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "technician-dispatch-mobile-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-sla-tracking",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "sla-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-webhook-surface",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "webhook-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-notifications-module-0-references",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "notifications-module-0-references",
+      "kind": "route"
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "sourceKey": "gap-no-websocket-real-time-telemetry-stream",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "canonical": "websocket-real-time-telemetry-stream",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "/shifts",
+      "source": "/Volumes/external/projects/AIManufacturingOps/frontend/src/App.js",
+      "canonical": "shifts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "/charts",
+      "source": "/Volumes/external/projects/AIManufacturingOps/frontend/src/App.js",
+      "canonical": "charts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIManufacturingOps/frontend/src/App.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "equipment",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "routes",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "safety",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "safety",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "assembly",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "assembly",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "supply-chain",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "supply-chain",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "scrap-rework-loop",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "scrap-rework-loop",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "file-upload",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "file-upload",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "data-export",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "data-export",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/gl-chart-of-accounts",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-gl-chart-of-accounts",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/ap-ar",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-ap-ar",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/inventory-gl",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-inventory-gl",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/mrp",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-mrp",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/boms",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-boms",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/cost-accounting",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-cost-accounting",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/consolidations",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-consolidations",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/multi-currency",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-multi-currency",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "erp/intercompany",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "erp-intercompany",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "feedback",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "api-docs",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "api-docs",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "privacy-policy",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "privacy-policy",
+      "kind": "route"
+    },
+    {
+      "project": "AIManufacturingOps",
+      "sourceKey": "terms-of-service",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "canonical": "terms-of-service",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "general-analysis",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "general-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "process-optimization",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "process-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "predictive-modeling",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "predictive-modeling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "troubleshooting",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "troubleshooting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "literature-search",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "literature-search",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "protocol-generator",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "protocol-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "data-interpreter",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "data-interpreter",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "scale-up-advisor",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/AICenterPage.jsx",
+      "canonical": "scale-up-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/processes",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "processes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/strains",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "strains",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/recipes",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "recipes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/batches",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "batches",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/nutrients",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "nutrients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/bioreactors",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "bioreactors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/environment",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "environment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/yields",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "yields",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/costs",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/quality",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/contamination",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "contamination",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer/client/src/pages/Dashboard.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "telemetry",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "telemetry",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "sensor-dashboard",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "sensor-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "optimization",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "contamination-risk",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "contamination-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "yield-prediction",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "yield-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "sop-generator",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "sop-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "batch-comparison",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "batch-comparison",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "strain-performance-predict",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "strain-performance-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "quality-anomaly-detect",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "quality-anomaly-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "cf-agentic-process-optimization",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "agentic-process-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "cf-contamination-risk-early-warning",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "contamination-risk-early-warning",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "cf-scale-up-protocol-generator",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "scale-up-protocol-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "cf-media-optimization-ensemble",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "media-optimization-ensemble",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "cf-cross-batch-learning",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "cross-batch-learning",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-strains-without-strain",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "strains-without-strain",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-quality-without-quality",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "quality-without-quality",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-costs-without-cost",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "costs-without-cost",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-no-real-scada-industrial-iot-integration-only-manu",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "real-scada-industrial-iot-integration-only-manu",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-no-integration-with-analytical-labs-hplc-mass-spec",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "integration-with-analytical-labs-hplc-mass-spec",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-no-integration-with-downstream-processing-purifica",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "integration-with-downstream-processing-purifica",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-limited-regulatory-documentation-cgmp-fda-complian",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "limited-regulatory-documentation-cgmp-fda-complian",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-no-webhooks-for-alert-delivery",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "webhooks-for-alert-delivery",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-no-mobile-app-for-operators",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "mobile-app-for-operators",
+      "kind": "route"
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "sourceKey": "gap-limited-notifications-layer",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "canonical": "limited-notifications-layer",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/sensors",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "sensors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/predictive-analytics",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/maintenance-schedules",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/work-orders",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "work-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/failure-analysis",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "failure-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/equipment-health",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "equipment-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/anomaly-detection",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "anomalies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/what-if-simulator",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "what-if-simulator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/sensor-chart",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "sensor-chart",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cost-forecast",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "cost-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/parts-optimizer",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "parts-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/maintenance-window-planner",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-window-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/alert-fatigue-reduce",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "alert-fatigue-reduce",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/workorder-priority",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "workorder-priority",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/maintenance-recommendation",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/failure-root-cause",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "failure-root-cause",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/maintenance-roi",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-roi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/oee-analyzer",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "oee-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/predictive-parts-ordering",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-parts-ordering",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/spare-parts",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "spare-parts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/maintenance-logs",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cost-analysis",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "cost-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/lubrication-route-compliance",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "lubrication-route-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/asset-registry",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "asset-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/sensor-ingestion",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "sensor-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/anomaly-events",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "anomaly-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/predictive-scheduling",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/generated-work-orders",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "generated-work-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/parts-forecasting",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "parts-forecasting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/downtime-roi-metrics",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "downtime-roi-metrics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/technician-checklists",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "technician-checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/live-anomaly-stream",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "live-anomaly-stream",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/integration-center",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cf-agentic-maintenance-orchestration",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "agentic-maintenance-orchestration",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cf-digital-twin-simulation",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "digital-twin-simulation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cf-anomaly-streaming",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "anomaly-streaming",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cf-predictive-parts-ordering",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "predictive-parts-ordering",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/cf-maintenance-roi-calculator",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "maintenance-roi-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-alerts-without-alert",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "alerts-without-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-workorders-without-workorder",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "workorders-without-workorder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-no-digital",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "digital",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-cmms-iot-oee-modules-exist-but-real-third",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "cmms-iot-oee-modules-exist-but-real-third",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-no-integration-with-asset-management-purchase-depr",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "integration-with-asset-management-purchase-depr",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-no-mobile-app-for-field-technicians-grep-0-react",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "mobile-app-for-field-technicians-grep-0-react",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-no-webhooks-for-external-systems",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "webhooks-for-external-systems",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "/gap-limited-notifications-layer",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "canonical": "limited-notifications-layer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "robots",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robots",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "zones",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zones",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "tasks",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "tasks",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "collisions",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "collisions",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "maintenance",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "maintenance-schedules",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "operators",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "operators",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "shifts",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "shifts",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/task-allocation",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "task-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/collision-avoidance",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "collision-avoidance",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/path-planning",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "path-planning",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/throughput-optimization",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "throughput-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/predictive-maintenance",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "predictive",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "demand-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/simulation",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/history",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/auto-dispatch",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "auto-dispatch",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "robots/oee",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robots-oee",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/battery-optimization",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "battery-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/zone-heat-map",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zone-heat-map",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/fault-diagnosis",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "fault-diagnosis",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/robot-health-dashboard",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robot-health-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/performance-benchmarking",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "performance-benchmarking",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/dynamic-fleet-sizing",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "dynamic-fleet-sizing",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/zone-capacity-forecast",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zone-capacity-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "ai/charging-orchestration",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "charging-orchestration",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-dynamic-fleet-size-optimization",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "dynamic-fleet-size-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-predictive-collision-prevention",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "predictive-collision-prevention",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-zone-capacity-forecasting",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zone-capacity-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-robot-specialization-learning",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robot-specialization-learning",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-autonomous-charging-orchestration",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "autonomous-charging-orchestration",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "cf-failure-mode-learning",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "failure-mode-learning",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-batteryoptimization-charge-scheduling",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "batteryoptimization-charge-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-zoneheatmap-bottleneck-identification",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zoneheatmap-bottleneck-identification",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-robothealthdashboard-aggregate-health-met",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robothealthdashboard-aggregate-health-met",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-performancebenchmarking-ai",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "performancebenchmarking-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-faultdiagnosis-rootcause-from-telemetry",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "faultdiagnosis-rootcause-from-telemetry",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-fleet-visualizationmapping-realtime-posit",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "fleet-visualizationmapping-realtime-posit",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-robot-devicedriverros-integration",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "robot-devicedriverros-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-zonelayout-management-ui-route",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "zonelayout-management-ui-route",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-telemetry-ingestion-endpoint-sensor-strea",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "telemetry-ingestion-endpoint-sensor-strea",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-wmserp-integration-sap-manhattan",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "wmserp-integration-sap-manhattan",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-notifications-for-critical-faults",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "notifications-for-critical-faults",
+      "kind": "route"
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "sourceKey": "gap-no-audit-log-for-safetyrelated-interventions",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "canonical": "audit-log-for-safetyrelated-interventions",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "inspections",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "inspections",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "defects",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "defects",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "ai-analysis",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "defect-classifier",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "defect-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "severity-scorer",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "severity-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "root-cause",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "root-cause",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "trend-tracker",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "trend-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "quality-inspector",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "quality-inspector",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "packaging-optimizer",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "packaging-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "report-generator",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "report-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "batch-inspection",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "batch-inspection",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "defect-trend-analytics",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "defect-trend-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "reinspection-scheduler",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "reinspection-scheduler",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "mes-alerts",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "mes-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "predictive-quality",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "predictive-quality",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "improvement-recommendations",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "improvement-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "supplier-quality-score",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "supplier-quality-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "defect-parameter-correlation",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "defect-parameter-correlation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "spc-control-chart",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "spc-control-chart",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-computer-vision-defect-detector-running-on-line-cameras",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "computer-vision-defect-detector-running-on-line-cameras",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-predictive-quality-scoring-flagging-at-risk-production-runs",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "predictive-quality-scoring-flagging-at-risk-production-runs",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-root-cause-correlation-tying-defects-to-process-parameters",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "root-cause-correlation-tying-defects-to-process-parameters",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-supplier-quality-tracking-scoring-supplier-defect-contributions",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "supplier-quality-tracking-scoring-supplier-defect-contributions",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-process-change-recommendation-engine-reducing-defect-rates",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "process-change-recommendation-engine-reducing-defect-rates",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "cf-direct-mes-erp-integration-for-closed-loop-quality-control",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "direct-mes-erp-integration-for-closed-loop-quality-control",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-computer-vision-for-direct-defect-detection-from",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "computer-vision-for-direct-defect-detection-from",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-predictive-quality-scoring-for-upcoming-production-runs",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "predictive-quality-scoring-for-upcoming-production-runs",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-automated-root-cause-correlation-ml",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "automated-root-cause-correlation-ml",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-real-time-spc-statistical-process-control-visualization",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "real-time-spc-statistical-process-control-visualization",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-erp-integration-for-rework-scrap-tracking",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "erp-integration-for-rework-scrap-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-supplier-quality-management-module",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "supplier-quality-management-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-webhooks-for-mes-events-beyond-the-alert",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "webhooks-for-mes-events-beyond-the-alert",
+      "kind": "route"
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "sourceKey": "gap-no-notifications-subsystem",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "canonical": "notifications-subsystem",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-chemical-feedstock-formula-price-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-chemical-feedstock-formula-price-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-contract-manufacturing-yield-scrap-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-contract-manufacturing-yield-scrap-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-manufacturing-warranty-supplier-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-manufacturing-warranty-supplier-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-mro-consignment-vmi-invoice-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-mro-consignment-vmi-invoice-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-tooling-mold-amortization-ownership-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-tooling-mold-amortization-ownership-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AI3DPrintingOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AI3DPrintingOptimizer",
+      "key": ":feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBillofMaterialsOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBillofMaterialsOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICobotTrainer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICobotTrainer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "/twins/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDigitalTwinPlatform",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIDigitalTwinPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "/devices/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIHardwareIoT",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIHardwareIoT",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "/health",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "health",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIIndustrialIoTAnomalyDetector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIIndustrialIoTAnomalyDetector",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AIManufacturingOps/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIManufacturingOps/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/equipment/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/routes/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/safety/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/assembly/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "/supply-chain/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIManufacturingOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIManufacturingOps",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIPrecisionFermentationProcessOptimizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPrecisionFermentationProcessOptimizer",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance/frontend/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPredictiveMaintenance",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPredictiveMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIRoboticProcessChoreographer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIRoboticProcessChoreographer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/products/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/inspections/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/defects/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/reports/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/defect-classifier/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/severity-scorer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/root-cause/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/trend-tracker/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/quality-inspector/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/packaging-optimizer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/report-generator/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "/batch-inspection/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVisualQAInspector",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVisualQAInspector",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "supplier-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-grade-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "index-source-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "publication-date-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "formula-price-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lag-period-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "floor-ceiling-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "freight-differential-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "energy-surcharge-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "currency-conversion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "off-spec-quality-credits",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-rebate-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-exception-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "manufacturing-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bom-and-routing-versioning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-receipt-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "production-order-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-usage-variance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "yield-and-scrap-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scrap-ownership-and-resale-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rework-responsibility-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "labor-and-conversion-cost-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "overtime-and-premium-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-substitution-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quality-rejection-chargeback",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "finished-goods-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-recovery-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "debit-and-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "site-product-and-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "genealogy",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entitlement",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-intake",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "failure-codes",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "component-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "failure-clustering",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-responsibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cost-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-claim",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-response",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "debit-memo",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovery-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reserve-forecast",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-scorecards",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "field-action-warning",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vmi-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "storeroom-bin-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "item-substitute-master",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "beginning-inventory-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "receipt-issue-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cycle-count-variance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "consumption-billing-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "price-discount-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "obsolete-inventory-responsibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "emergency-premium-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "restocking-fee-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-discrepancy-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "plant-item-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tooling-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "asset-serial-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "ownership-title-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-order-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "amortization-schedule",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "piece-price-amortization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-threshold-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-tooling-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "maintenance-responsibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refurbishment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-custody-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "end-of-program-transfer",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "residual-balance-recovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tool-return-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "AIAssemblyLineVisualInspector",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

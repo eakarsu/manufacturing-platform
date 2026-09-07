@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "summarizer",
+      "report-generator"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "summarizer",
+        "title": "Text Summarizer",
+        "originalPath": "/features/summarizer"
+      },
+      {
+        "id": "report-generator",
+        "title": "Report generator",
+        "originalPath": "/features/report-generator"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "supplier-contract-library",
+      "material-grade-registry",
+      "volume-rebate-calculation",
+      "material-supplier-analytics",
+      "manufacturing-agreement-library",
+      "bom-and-routing-versioning",
+      "material-receipt-ingestion",
+      "material-usage-variance",
+      "yield-and-scrap-calculation",
+      "supplier-recovery-package",
+      "site-product-and-supplier-analytics",
+      "genealogy",
+      "claim-intake",
+      "failure-codes",
+      "failure-clustering",
+      "supplier-responsibility",
+      "supplier-claim",
+      "supplier-response",
+      "recovery-ledger",
+      "field-action-warning",
+      "vmi-contract-library",
+      "storeroom-bin-registry",
+      "item-substitute-master",
+      "receipt-issue-ingestion",
+      "cycle-count-variance",
+      "obsolete-inventory-responsibility",
+      "supplier-discrepancy-workflow",
+      "plant-item-analytics",
+      "tooling-agreement-library",
+      "asset-serial-registry",
+      "volume-threshold-monitoring",
+      "maintenance-responsibility",
+      "supplier-custody-tracking",
+      "end-of-program-transfer",
+      "residual-balance-recovery",
+      "tool-return-workflow",
+      "program-supplier-analytics",
+      "printing-tools",
+      "motion-planning",
+      "natural-language-programming",
+      "motion-path-replay",
+      "task-optimisation-batch",
+      "cross-model-motion-planner",
+      "nl-program-debugger",
+      "agentic-program-generator",
+      "cycle-time-estimator",
+      "operator-training-brief",
+      "response-generator",
+      "fleet-ops-ai",
+      "federated-learning-for-edge-models-train",
+      "root-cause-ai-synthesis",
+      "charts",
+      "supply-chain",
+      "troubleshooting",
+      "literature-search",
+      "protocol-generator",
+      "data-interpreter",
+      "scale-up-advisor",
+      "sop-generator",
+      "scale-up-protocol-generator",
+      "strains-without-strain",
+      "maintenance-schedules",
+      "equipment-health",
+      "what-if-simulator",
+      "sensor-chart",
+      "maintenance-window-planner",
+      "alert-fatigue-reduce",
+      "workorder-priority",
+      "failure-root-cause",
+      "maintenance-roi",
+      "task-allocation",
+      "collision-avoidance",
+      "path-planning",
+      "simulation",
+      "zone-heat-map",
+      "fault-diagnosis",
+      "robot-health-dashboard",
+      "dynamic-fleet-sizing",
+      "charging-orchestration",
+      "failure-mode-learning"
+    ],
+    "ai": true,
+    "representativeId": "supplier-contract-library",
+    "description": "One assistant for 80 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "supplier-contract-library",
+        "title": "Supplier contract library",
+        "originalPath": "/features/supplier-contract-library"
+      },
+      {
+        "id": "material-grade-registry",
+        "title": "Material grade registry",
+        "originalPath": "/features/material-grade-registry"
+      },
+      {
+        "id": "volume-rebate-calculation",
+        "title": "Volume rebate calculation",
+        "originalPath": "/features/volume-rebate-calculation"
+      },
+      {
+        "id": "material-supplier-analytics",
+        "title": "Material supplier analytics",
+        "originalPath": "/features/material-supplier-analytics"
+      },
+      {
+        "id": "manufacturing-agreement-library",
+        "title": "Manufacturing agreement library",
+        "originalPath": "/features/manufacturing-agreement-library"
+      },
+      {
+        "id": "bom-and-routing-versioning",
+        "title": "BOM and routing versioning",
+        "originalPath": "/features/bom-and-routing-versioning"
+      },
+      {
+        "id": "material-receipt-ingestion",
+        "title": "Material receipt ingestion",
+        "originalPath": "/features/material-receipt-ingestion"
+      },
+      {
+        "id": "material-usage-variance",
+        "title": "Material usage variance",
+        "originalPath": "/features/material-usage-variance"
+      },
+      {
+        "id": "yield-and-scrap-calculation",
+        "title": "Yield and scrap calculation",
+        "originalPath": "/features/yield-and-scrap-calculation"
+      },
+      {
+        "id": "supplier-recovery-package",
+        "title": "Supplier recovery package",
+        "originalPath": "/features/supplier-recovery-package"
+      },
+      {
+        "id": "site-product-and-supplier-analytics",
+        "title": "Site product and supplier analytics",
+        "originalPath": "/features/site-product-and-supplier-analytics"
+      },
+      {
+        "id": "genealogy",
+        "title": "Product, Serial & Lot Genealogy",
+        "originalPath": "/features/genealogy"
+      },
+      {
+        "id": "claim-intake",
+        "title": "Customer Warranty Claim Intake",
+        "originalPath": "/features/claim-intake"
+      },
+      {
+        "id": "failure-codes",
+        "title": "Failure-Code Normalization",
+        "originalPath": "/features/failure-codes"
+      },
+      {
+        "id": "failure-clustering",
+        "title": "Root-Cause & Failure Clustering",
+        "originalPath": "/features/failure-clustering"
+      },
+      {
+        "id": "supplier-responsibility",
+        "title": "Supplier Responsibility Determination",
+        "originalPath": "/features/supplier-responsibility"
+      },
+      {
+        "id": "supplier-claim",
+        "title": "Supplier Claim Package",
+        "originalPath": "/features/supplier-claim"
+      },
+      {
+        "id": "supplier-response",
+        "title": "Supplier Response & Negotiation",
+        "originalPath": "/features/supplier-response"
+      },
+      {
+        "id": "recovery-ledger",
+        "title": "Warranty Recovery Ledger",
+        "originalPath": "/features/recovery-ledger"
+      },
+      {
+        "id": "field-action-warning",
+        "title": "Recall & Field-Action Early Warning",
+        "originalPath": "/features/field-action-warning"
+      },
+      {
+        "id": "vmi-contract-library",
+        "title": "VMI contract library",
+        "originalPath": "/features/vmi-contract-library"
+      },
+      {
+        "id": "storeroom-bin-registry",
+        "title": "Storeroom bin registry",
+        "originalPath": "/features/storeroom-bin-registry"
+      },
+      {
+        "id": "item-substitute-master",
+        "title": "Item substitute master",
+        "originalPath": "/features/item-substitute-master"
+      },
+      {
+        "id": "receipt-issue-ingestion",
+        "title": "Receipt issue ingestion",
+        "originalPath": "/features/receipt-issue-ingestion"
+      },
+      {
+        "id": "cycle-count-variance",
+        "title": "Cycle count variance",
+        "originalPath": "/features/cycle-count-variance"
+      },
+      {
+        "id": "obsolete-inventory-responsibility",
+        "title": "Obsolete inventory responsibility",
+        "originalPath": "/features/obsolete-inventory-responsibility"
+      },
+      {
+        "id": "supplier-discrepancy-workflow",
+        "title": "Supplier discrepancy workflow",
+        "originalPath": "/features/supplier-discrepancy-workflow"
+      },
+      {
+        "id": "plant-item-analytics",
+        "title": "Plant item analytics",
+        "originalPath": "/features/plant-item-analytics"
+      },
+      {
+        "id": "tooling-agreement-library",
+        "title": "Tooling agreement library",
+        "originalPath": "/features/tooling-agreement-library"
+      },
+      {
+        "id": "asset-serial-registry",
+        "title": "Asset serial registry",
+        "originalPath": "/features/asset-serial-registry"
+      },
+      {
+        "id": "volume-threshold-monitoring",
+        "title": "Volume threshold monitoring",
+        "originalPath": "/features/volume-threshold-monitoring"
+      },
+      {
+        "id": "maintenance-responsibility",
+        "title": "Maintenance responsibility",
+        "originalPath": "/features/maintenance-responsibility"
+      },
+      {
+        "id": "supplier-custody-tracking",
+        "title": "Supplier custody tracking",
+        "originalPath": "/features/supplier-custody-tracking"
+      },
+      {
+        "id": "end-of-program-transfer",
+        "title": "End-of-program transfer",
+        "originalPath": "/features/end-of-program-transfer"
+      },
+      {
+        "id": "residual-balance-recovery",
+        "title": "Residual balance recovery",
+        "originalPath": "/features/residual-balance-recovery"
+      },
+      {
+        "id": "tool-return-workflow",
+        "title": "Tool return workflow",
+        "originalPath": "/features/tool-return-workflow"
+      },
+      {
+        "id": "program-supplier-analytics",
+        "title": "Program supplier analytics",
+        "originalPath": "/features/program-supplier-analytics"
+      },
+      {
+        "id": "printing-tools",
+        "title": "Printing tools",
+        "originalPath": "/features/printing-tools"
+      },
+      {
+        "id": "motion-planning",
+        "title": "AI Motion Planning",
+        "originalPath": "/features/motion-planning"
+      },
+      {
+        "id": "natural-language-programming",
+        "title": "AI Natural Language Programming",
+        "originalPath": "/features/natural-language-programming"
+      },
+      {
+        "id": "motion-path-replay",
+        "title": "Motion Path Replay",
+        "originalPath": "/features/motion-path-replay"
+      },
+      {
+        "id": "task-optimisation-batch",
+        "title": "Task Optimisation Batch",
+        "originalPath": "/features/task-optimisation-batch"
+      },
+      {
+        "id": "cross-model-motion-planner",
+        "title": "Cross-Model Motion Planner",
+        "originalPath": "/features/cross-model-motion-planner"
+      },
+      {
+        "id": "nl-program-debugger",
+        "title": "NL Program Debugger",
+        "originalPath": "/features/nl-program-debugger"
+      },
+      {
+        "id": "agentic-program-generator",
+        "title": "Agentic Program Generator",
+        "originalPath": "/features/agentic-program-generator"
+      },
+      {
+        "id": "cycle-time-estimator",
+        "title": "Cycle-Time Estimator",
+        "originalPath": "/features/cycle-time-estimator"
+      },
+      {
+        "id": "operator-training-brief",
+        "title": "Operator Training Brief",
+        "originalPath": "/features/operator-training-brief"
+      },
+      {
+        "id": "response-generator",
+        "title": "Response Generator",
+        "originalPath": "/features/response-generator"
+      },
+      {
+        "id": "fleet-ops-ai",
+        "title": "Fleet ops ai",
+        "originalPath": "/features/fleet-ops-ai"
+      },
+      {
+        "id": "federated-learning-for-edge-models-train",
+        "title": "federated learning for edge models train",
+        "originalPath": "/features/federated-learning-for-edge-models-train"
+      },
+      {
+        "id": "root-cause-ai-synthesis",
+        "title": "root cause ai synthesis",
+        "originalPath": "/features/root-cause-ai-synthesis"
+      },
+      {
+        "id": "charts",
+        "title": "Charts & Analytics",
+        "originalPath": "/features/charts"
+      },
+      {
+        "id": "supply-chain",
+        "title": "Supply chain",
+        "originalPath": "/features/supply-chain"
+      },
+      {
+        "id": "troubleshooting",
+        "title": "Troubleshooting",
+        "originalPath": "/features/troubleshooting"
+      },
+      {
+        "id": "literature-search",
+        "title": "Literature Search",
+        "originalPath": "/features/literature-search"
+      },
+      {
+        "id": "protocol-generator",
+        "title": "Protocol Generator",
+        "originalPath": "/features/protocol-generator"
+      },
+      {
+        "id": "data-interpreter",
+        "title": "Data Interpreter",
+        "originalPath": "/features/data-interpreter"
+      },
+      {
+        "id": "scale-up-advisor",
+        "title": "Scale-Up Advisor",
+        "originalPath": "/features/scale-up-advisor"
+      },
+      {
+        "id": "sop-generator",
+        "title": "Sop generator",
+        "originalPath": "/features/sop-generator"
+      },
+      {
+        "id": "scale-up-protocol-generator",
+        "title": "scale up protocol generator",
+        "originalPath": "/features/scale-up-protocol-generator"
+      },
+      {
+        "id": "strains-without-strain",
+        "title": "strains without strain",
+        "originalPath": "/features/strains-without-strain"
+      },
+      {
+        "id": "maintenance-schedules",
+        "title": "Maintenance",
+        "originalPath": "/features/maintenance-schedules"
+      },
+      {
+        "id": "equipment-health",
+        "title": "Equipment Health",
+        "originalPath": "/features/equipment-health"
+      },
+      {
+        "id": "what-if-simulator",
+        "title": "What-If Simulator",
+        "originalPath": "/features/what-if-simulator"
+      },
+      {
+        "id": "sensor-chart",
+        "title": "Sensor Monitor",
+        "originalPath": "/features/sensor-chart"
+      },
+      {
+        "id": "maintenance-window-planner",
+        "title": "Window Planner",
+        "originalPath": "/features/maintenance-window-planner"
+      },
+      {
+        "id": "alert-fatigue-reduce",
+        "title": "Alert Fatigue",
+        "originalPath": "/features/alert-fatigue-reduce"
+      },
+      {
+        "id": "workorder-priority",
+        "title": "Work Order Priority",
+        "originalPath": "/features/workorder-priority"
+      },
+      {
+        "id": "failure-root-cause",
+        "title": "Failure Root Cause",
+        "originalPath": "/features/failure-root-cause"
+      },
+      {
+        "id": "maintenance-roi",
+        "title": "Maintenance ROI",
+        "originalPath": "/features/maintenance-roi"
+      },
+      {
+        "id": "task-allocation",
+        "title": "Task allocation",
+        "originalPath": "/features/task-allocation"
+      },
+      {
+        "id": "collision-avoidance",
+        "title": "Collision avoidance",
+        "originalPath": "/features/collision-avoidance"
+      },
+      {
+        "id": "path-planning",
+        "title": "Path planning",
+        "originalPath": "/features/path-planning"
+      },
+      {
+        "id": "simulation",
+        "title": "Simulation",
+        "originalPath": "/features/simulation"
+      },
+      {
+        "id": "zone-heat-map",
+        "title": "Zone heat map",
+        "originalPath": "/features/zone-heat-map"
+      },
+      {
+        "id": "fault-diagnosis",
+        "title": "Fault diagnosis",
+        "originalPath": "/features/fault-diagnosis"
+      },
+      {
+        "id": "robot-health-dashboard",
+        "title": "Robot health dashboard",
+        "originalPath": "/features/robot-health-dashboard"
+      },
+      {
+        "id": "dynamic-fleet-sizing",
+        "title": "Dynamic fleet sizing",
+        "originalPath": "/features/dynamic-fleet-sizing"
+      },
+      {
+        "id": "charging-orchestration",
+        "title": "Charging orchestration",
+        "originalPath": "/features/charging-orchestration"
+      },
+      {
+        "id": "failure-mode-learning",
+        "title": "failure mode learning",
+        "originalPath": "/features/failure-mode-learning"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "index-source-control",
+      "publication-date-validation",
+      "lag-period-validation",
+      "floor-ceiling-control",
+      "freight-differential-audit",
+      "energy-surcharge-validation",
+      "supplier-exception-workflow",
+      "overtime-and-premium-audit",
+      "material-substitution-control",
+      "entitlement",
+      "service-validation",
+      "component-evidence",
+      "emergency-premium-audit",
+      "ownership-title-evidence",
+      "refurbishment-validation",
+      "risks",
+      "quality-analysis",
+      "safety-assessment",
+      "anomaly-detection",
+      "safety-boundary-auto-generator",
+      "anomalies",
+      "federated-anomaly-detection-trained-on-a",
+      "predictive-quality",
+      "predictive-quality-scoring-flagging-at-risk-production-runs",
+      "predictive-quality-scoring-for-upcoming-production-runs"
+    ],
+    "ai": true,
+    "representativeId": "index-source-control",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "index-source-control",
+        "title": "Index source control",
+        "originalPath": "/features/index-source-control"
+      },
+      {
+        "id": "publication-date-validation",
+        "title": "Publication date validation",
+        "originalPath": "/features/publication-date-validation"
+      },
+      {
+        "id": "lag-period-validation",
+        "title": "Lag period validation",
+        "originalPath": "/features/lag-period-validation"
+      },
+      {
+        "id": "floor-ceiling-control",
+        "title": "Floor ceiling control",
+        "originalPath": "/features/floor-ceiling-control"
+      },
+      {
+        "id": "freight-differential-audit",
+        "title": "Freight differential audit",
+        "originalPath": "/features/freight-differential-audit"
+      },
+      {
+        "id": "energy-surcharge-validation",
+        "title": "Energy surcharge validation",
+        "originalPath": "/features/energy-surcharge-validation"
+      },
+      {
+        "id": "supplier-exception-workflow",
+        "title": "Supplier exception workflow",
+        "originalPath": "/features/supplier-exception-workflow"
+      },
+      {
+        "id": "overtime-and-premium-audit",
+        "title": "Overtime and premium audit",
+        "originalPath": "/features/overtime-and-premium-audit"
+      },
+      {
+        "id": "material-substitution-control",
+        "title": "Material substitution control",
+        "originalPath": "/features/material-substitution-control"
+      },
+      {
+        "id": "entitlement",
+        "title": "Warranty Policy & Entitlement",
+        "originalPath": "/features/entitlement"
+      },
+      {
+        "id": "service-validation",
+        "title": "Dealer & Service-Center Validation",
+        "originalPath": "/features/service-validation"
+      },
+      {
+        "id": "component-evidence",
+        "title": "Failed-Component Evidence",
+        "originalPath": "/features/component-evidence"
+      },
+      {
+        "id": "emergency-premium-audit",
+        "title": "Emergency premium audit",
+        "originalPath": "/features/emergency-premium-audit"
+      },
+      {
+        "id": "ownership-title-evidence",
+        "title": "Ownership title evidence",
+        "originalPath": "/features/ownership-title-evidence"
+      },
+      {
+        "id": "refurbishment-validation",
+        "title": "Refurbishment validation",
+        "originalPath": "/features/refurbishment-validation"
+      },
+      {
+        "id": "risks",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risks"
+      },
+      {
+        "id": "quality-analysis",
+        "title": "AI Quality Analysis",
+        "originalPath": "/features/quality-analysis"
+      },
+      {
+        "id": "safety-assessment",
+        "title": "AI Safety Assessment",
+        "originalPath": "/features/safety-assessment"
+      },
+      {
+        "id": "anomaly-detection",
+        "title": "AI Anomaly Detection",
+        "originalPath": "/features/anomaly-detection"
+      },
+      {
+        "id": "safety-boundary-auto-generator",
+        "title": "Safety Boundary Auto-Generator",
+        "originalPath": "/features/safety-boundary-auto-generator"
+      },
+      {
+        "id": "anomalies",
+        "title": "Anomaly Detection",
+        "originalPath": "/features/anomalies"
+      },
+      {
+        "id": "federated-anomaly-detection-trained-on-a",
+        "title": "federated anomaly detection trained on a",
+        "originalPath": "/features/federated-anomaly-detection-trained-on-a"
+      },
+      {
+        "id": "predictive-quality",
+        "title": "Predictive quality",
+        "originalPath": "/features/predictive-quality"
+      },
+      {
+        "id": "predictive-quality-scoring-flagging-at-risk-production-runs",
+        "title": "predictive quality scoring flagging at risk production runs",
+        "originalPath": "/features/predictive-quality-scoring-flagging-at-risk-production-runs"
+      },
+      {
+        "id": "predictive-quality-scoring-for-upcoming-production-runs",
+        "title": "predictive quality scoring for upcoming production runs",
+        "originalPath": "/features/predictive-quality-scoring-for-upcoming-production-runs"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "formula-price-calculation",
+      "off-spec-quality-credits",
+      "invoice-matching",
+      "production-order-reconciliation",
+      "scrap-ownership-and-resale-credit",
+      "labor-and-conversion-cost-validation",
+      "quality-rejection-chargeback",
+      "finished-goods-reconciliation",
+      "debit-and-credit-reconciliation",
+      "cost-reconstruction",
+      "debit-memo",
+      "beginning-inventory-reconciliation",
+      "consumption-billing-calculation",
+      "price-discount-validation",
+      "restocking-fee-control",
+      "credit-reconciliation",
+      "purchase-order-reconciliation",
+      "piece-price-amortization",
+      "predictive-bandwidthcost-optimizer-fo",
+      "cost-forecast",
+      "cost-analysis"
+    ],
+    "ai": true,
+    "representativeId": "formula-price-calculation",
+    "description": "One assistant for 21 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "formula-price-calculation",
+        "title": "Formula price calculation",
+        "originalPath": "/features/formula-price-calculation"
+      },
+      {
+        "id": "off-spec-quality-credits",
+        "title": "Off-spec quality credits",
+        "originalPath": "/features/off-spec-quality-credits"
+      },
+      {
+        "id": "invoice-matching",
+        "title": "Invoice matching",
+        "originalPath": "/features/invoice-matching"
+      },
+      {
+        "id": "production-order-reconciliation",
+        "title": "Production-order reconciliation",
+        "originalPath": "/features/production-order-reconciliation"
+      },
+      {
+        "id": "scrap-ownership-and-resale-credit",
+        "title": "Scrap ownership and resale credit",
+        "originalPath": "/features/scrap-ownership-and-resale-credit"
+      },
+      {
+        "id": "labor-and-conversion-cost-validation",
+        "title": "Labor and conversion-cost validation",
+        "originalPath": "/features/labor-and-conversion-cost-validation"
+      },
+      {
+        "id": "quality-rejection-chargeback",
+        "title": "Quality rejection chargeback",
+        "originalPath": "/features/quality-rejection-chargeback"
+      },
+      {
+        "id": "finished-goods-reconciliation",
+        "title": "Finished-goods reconciliation",
+        "originalPath": "/features/finished-goods-reconciliation"
+      },
+      {
+        "id": "debit-and-credit-reconciliation",
+        "title": "Debit and credit reconciliation",
+        "originalPath": "/features/debit-and-credit-reconciliation"
+      },
+      {
+        "id": "cost-reconstruction",
+        "title": "Warranty Cost Reconstruction",
+        "originalPath": "/features/cost-reconstruction"
+      },
+      {
+        "id": "debit-memo",
+        "title": "Debit Memo & Chargeback Management",
+        "originalPath": "/features/debit-memo"
+      },
+      {
+        "id": "beginning-inventory-reconciliation",
+        "title": "Beginning inventory reconciliation",
+        "originalPath": "/features/beginning-inventory-reconciliation"
+      },
+      {
+        "id": "consumption-billing-calculation",
+        "title": "Consumption billing calculation",
+        "originalPath": "/features/consumption-billing-calculation"
+      },
+      {
+        "id": "price-discount-validation",
+        "title": "Price discount validation",
+        "originalPath": "/features/price-discount-validation"
+      },
+      {
+        "id": "restocking-fee-control",
+        "title": "Restocking fee control",
+        "originalPath": "/features/restocking-fee-control"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "purchase-order-reconciliation",
+        "title": "Purchase order reconciliation",
+        "originalPath": "/features/purchase-order-reconciliation"
+      },
+      {
+        "id": "piece-price-amortization",
+        "title": "Piece-price amortization",
+        "originalPath": "/features/piece-price-amortization"
+      },
+      {
+        "id": "predictive-bandwidthcost-optimizer-fo",
+        "title": "predictive bandwidthcost optimizer fo",
+        "originalPath": "/features/predictive-bandwidthcost-optimizer-fo"
+      },
+      {
+        "id": "cost-forecast",
+        "title": "Cost Forecast",
+        "originalPath": "/features/cost-forecast"
+      },
+      {
+        "id": "cost-analysis",
+        "title": "Cost Analysis",
+        "originalPath": "/features/cost-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "currency-conversion",
+      "sentiments"
+    ],
+    "ai": true,
+    "representativeId": "currency-conversion",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "currency-conversion",
+        "title": "Currency conversion",
+        "originalPath": "/features/currency-conversion"
+      },
+      {
+        "id": "sentiments",
+        "title": "Sentiment Analysis",
+        "originalPath": "/features/sentiments"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "rework-responsibility-analysis",
+      "reserve-forecast",
+      "supplier-scorecards",
+      "duplicate-tooling-detection",
+      "failure-prediction",
+      "insights",
+      "task-optimization",
+      "predictive-maintenance",
+      "failure-root-cause-analyzer",
+      "counterfactual-analysis",
+      "agentic-device-health-monitor-predicting",
+      "energy-efficiency-optimizer-extending-ex",
+      "predictive",
+      "rootcause",
+      "energy",
+      "agentic-maintenance-coordinator-predicti",
+      "supply-chain-disruption-prediction-corre",
+      "energy-efficiency-optimizer-recommending",
+      "predict-failure-endpoint",
+      "energy-optimization-ai",
+      "equipment-health-score-ai",
+      "maintenance-recommendation-ai",
+      "general-analysis",
+      "process-optimization",
+      "predictive-modeling",
+      "yield-prediction",
+      "strain-performance-predict",
+      "predictive-analytics",
+      "failure-analysis",
+      "parts-optimizer",
+      "maintenance-recommendation",
+      "oee-analyzer",
+      "predictive-parts-ordering",
+      "parts-forecasting",
+      "throughput-optimization",
+      "demand-forecast",
+      "battery-optimization",
+      "performance-benchmarking",
+      "predictive-collision-prevention",
+      "performancebenchmarking-ai",
+      "analysis",
+      "packaging-optimizer",
+      "defect-trend-analytics",
+      "improvement-recommendations",
+      "process-change-recommendation-engine-reducing-defect-rates"
+    ],
+    "ai": true,
+    "representativeId": "rework-responsibility-analysis",
+    "description": "One assistant for 45 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "rework-responsibility-analysis",
+        "title": "Rework responsibility analysis",
+        "originalPath": "/features/rework-responsibility-analysis"
+      },
+      {
+        "id": "reserve-forecast",
+        "title": "Warranty Reserve Forecasting",
+        "originalPath": "/features/reserve-forecast"
+      },
+      {
+        "id": "supplier-scorecards",
+        "title": "Supplier Performance Scorecards",
+        "originalPath": "/features/supplier-scorecards"
+      },
+      {
+        "id": "duplicate-tooling-detection",
+        "title": "Duplicate tooling detection",
+        "originalPath": "/features/duplicate-tooling-detection"
+      },
+      {
+        "id": "failure-prediction",
+        "title": "Failure Prediction",
+        "originalPath": "/features/failure-prediction"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "task-optimization",
+        "title": "AI Task Optimization",
+        "originalPath": "/features/task-optimization"
+      },
+      {
+        "id": "predictive-maintenance",
+        "title": "AI Predictive Maintenance",
+        "originalPath": "/features/predictive-maintenance"
+      },
+      {
+        "id": "failure-root-cause-analyzer",
+        "title": "Failure Root-Cause Analyzer",
+        "originalPath": "/features/failure-root-cause-analyzer"
+      },
+      {
+        "id": "counterfactual-analysis",
+        "title": "CF: CounterfactualAnalysis",
+        "originalPath": "/features/counterfactual-analysis"
+      },
+      {
+        "id": "agentic-device-health-monitor-predicting",
+        "title": "agentic device health monitor predicting",
+        "originalPath": "/features/agentic-device-health-monitor-predicting"
+      },
+      {
+        "id": "energy-efficiency-optimizer-extending-ex",
+        "title": "energy efficiency optimizer extending ex",
+        "originalPath": "/features/energy-efficiency-optimizer-extending-ex"
+      },
+      {
+        "id": "predictive",
+        "title": "Predictive Maintenance",
+        "originalPath": "/features/predictive"
+      },
+      {
+        "id": "rootcause",
+        "title": "Root Cause Analysis",
+        "originalPath": "/features/rootcause"
+      },
+      {
+        "id": "energy",
+        "title": "Energy Optimization",
+        "originalPath": "/features/energy"
+      },
+      {
+        "id": "agentic-maintenance-coordinator-predicti",
+        "title": "agentic maintenance coordinator predicti",
+        "originalPath": "/features/agentic-maintenance-coordinator-predicti"
+      },
+      {
+        "id": "supply-chain-disruption-prediction-corre",
+        "title": "supply chain disruption prediction corre",
+        "originalPath": "/features/supply-chain-disruption-prediction-corre"
+      },
+      {
+        "id": "energy-efficiency-optimizer-recommending",
+        "title": "energy efficiency optimizer recommending",
+        "originalPath": "/features/energy-efficiency-optimizer-recommending"
+      },
+      {
+        "id": "predict-failure-endpoint",
+        "title": "predict failure endpoint",
+        "originalPath": "/features/predict-failure-endpoint"
+      },
+      {
+        "id": "energy-optimization-ai",
+        "title": "energy optimization ai",
+        "originalPath": "/features/energy-optimization-ai"
+      },
+      {
+        "id": "equipment-health-score-ai",
+        "title": "equipment health score ai",
+        "originalPath": "/features/equipment-health-score-ai"
+      },
+      {
+        "id": "maintenance-recommendation-ai",
+        "title": "maintenance recommendation ai",
+        "originalPath": "/features/maintenance-recommendation-ai"
+      },
+      {
+        "id": "general-analysis",
+        "title": "General Analysis",
+        "originalPath": "/features/general-analysis"
+      },
+      {
+        "id": "process-optimization",
+        "title": "Process Optimization",
+        "originalPath": "/features/process-optimization"
+      },
+      {
+        "id": "predictive-modeling",
+        "title": "Predictive Modeling",
+        "originalPath": "/features/predictive-modeling"
+      },
+      {
+        "id": "yield-prediction",
+        "title": "Yield prediction",
+        "originalPath": "/features/yield-prediction"
+      },
+      {
+        "id": "strain-performance-predict",
+        "title": "Strain performance predict",
+        "originalPath": "/features/strain-performance-predict"
+      },
+      {
+        "id": "predictive-analytics",
+        "title": "Predictive Analytics",
+        "originalPath": "/features/predictive-analytics"
+      },
+      {
+        "id": "failure-analysis",
+        "title": "Failure Analysis",
+        "originalPath": "/features/failure-analysis"
+      },
+      {
+        "id": "parts-optimizer",
+        "title": "Parts Optimizer",
+        "originalPath": "/features/parts-optimizer"
+      },
+      {
+        "id": "maintenance-recommendation",
+        "title": "Maint. Recommendation",
+        "originalPath": "/features/maintenance-recommendation"
+      },
+      {
+        "id": "oee-analyzer",
+        "title": "OEE Analyzer",
+        "originalPath": "/features/oee-analyzer"
+      },
+      {
+        "id": "predictive-parts-ordering",
+        "title": "Predictive Parts",
+        "originalPath": "/features/predictive-parts-ordering"
+      },
+      {
+        "id": "parts-forecasting",
+        "title": "Parts Forecasting",
+        "originalPath": "/features/parts-forecasting"
+      },
+      {
+        "id": "throughput-optimization",
+        "title": "Throughput optimization",
+        "originalPath": "/features/throughput-optimization"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "Demand forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "battery-optimization",
+        "title": "Battery optimization",
+        "originalPath": "/features/battery-optimization"
+      },
+      {
+        "id": "performance-benchmarking",
+        "title": "Performance benchmarking",
+        "originalPath": "/features/performance-benchmarking"
+      },
+      {
+        "id": "predictive-collision-prevention",
+        "title": "predictive collision prevention",
+        "originalPath": "/features/predictive-collision-prevention"
+      },
+      {
+        "id": "performancebenchmarking-ai",
+        "title": "performancebenchmarking ai",
+        "originalPath": "/features/performancebenchmarking-ai"
+      },
+      {
+        "id": "analysis",
+        "title": "Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "packaging-optimizer",
+        "title": "Packaging optimizer",
+        "originalPath": "/features/packaging-optimizer"
+      },
+      {
+        "id": "defect-trend-analytics",
+        "title": "Defect trend analytics",
+        "originalPath": "/features/defect-trend-analytics"
+      },
+      {
+        "id": "improvement-recommendations",
+        "title": "Improvement recommendations",
+        "originalPath": "/features/improvement-recommendations"
+      },
+      {
+        "id": "process-change-recommendation-engine-reducing-defect-rates",
+        "title": "process change recommendation engine reducing defect rates",
+        "originalPath": "/features/process-change-recommendation-engine-reducing-defect-rates"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "amortization-schedule",
+      "predictive-maintenance-scheduler",
+      "predictive-scheduling",
+      "auto-dispatch",
+      "zone-capacity-forecast",
+      "zone-capacity-forecasting"
+    ],
+    "ai": true,
+    "representativeId": "amortization-schedule",
+    "description": "One assistant for 6 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "amortization-schedule",
+        "title": "Amortization schedule",
+        "originalPath": "/features/amortization-schedule"
+      },
+      {
+        "id": "predictive-maintenance-scheduler",
+        "title": "Predictive Maintenance Scheduler",
+        "originalPath": "/features/predictive-maintenance-scheduler"
+      },
+      {
+        "id": "predictive-scheduling",
+        "title": "Predictive Scheduling",
+        "originalPath": "/features/predictive-scheduling"
+      },
+      {
+        "id": "auto-dispatch",
+        "title": "Auto dispatch",
+        "originalPath": "/features/auto-dispatch"
+      },
+      {
+        "id": "zone-capacity-forecast",
+        "title": "Zone capacity forecast",
+        "originalPath": "/features/zone-capacity-forecast"
+      },
+      {
+        "id": "zone-capacity-forecasting",
+        "title": "zone capacity forecasting",
+        "originalPath": "/features/zone-capacity-forecasting"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "aiassembly-line-visual-inspector",
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "aiassembly-line-visual-inspector",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "aiassembly-line-visual-inspector",
+        "title": "Assembly line visual inspector work",
+        "originalPath": "/features/aiassembly-line-visual-inspector"
+      },
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "app": "manufacturing-platform",
+  "features": 400,
+  "sourceApps": 20,
+  "calculatorEngines": 0,
+  "registryHash": "267321c7926d0ffeb0a6e8db09b2f8ea115f32ef653e863d42963464f40c90cd",
+  "builtAt": "2026-09-07T22:05:40.912Z",
+  "status": "built"
+}
