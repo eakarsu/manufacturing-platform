@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-yield-and-scrap",
+      "feature": "yield-and-scrap-calculation",
+      "title": "Yield & scrap insight",
+      "focus": "Summarize Yield and scrap calculation records: totals, status mix, field coverage and recent activity. Manufacturing quality only; use only supplied records and do not invent production outcomes."
+    },
+    {
+      "id": "insight-quality-rejection",
+      "feature": "quality-rejection-chargeback",
+      "title": "Quality rejection insight",
+      "focus": "Summarize Quality rejection chargeback records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent supplier liability."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
